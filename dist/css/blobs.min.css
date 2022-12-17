@@ -1,0 +1,6 @@
+/*!
+ * Pixel Blobs  v0.0.1 (https://blobs.pixel.com.ro/)
+ * Copyright 2022 Pixel
+ * Licensed under MIT (https://github.com/pixel-s-lab/blobs/blob/main/LICENSE)
+ */
+.px-blob,.px-blob svg,.px-blob svg path{transform-origin:center}.px-blob{animation:blob-turn var(--time,30s) linear infinite;fill:var(--fill,#7600f8);position:relative}.px-blob svg{animation:blob-skew calc(var(--time,30s) * .5) linear 0s infinite}.px-blob svg path{animation:blob-scale calc(var(--time,30s) * .5) ease-in-out 0s infinite}@keyframes blob-turn{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@keyframes blob-skew{0%,100%,50%{transform:skewY(0)}13%,37%{transform:skewY(calc((1.8deg) * var(--amount,2)))}18%,32%{transform:skewY(calc((2.2deg) * var(--amount,2)))}24%,26%{transform:skewY(calc((2.48deg) * var(--amount,2)))}25%{transform:skewY(calc((2.5deg) * var(--amount,2)))}63%,87%{transform:skewY(calc((-1.8deg) * var(--amount,2)))}68%,82%{transform:skewY(calc((-2.2deg) * var(--amount,2)))}74%,76%{transform:skewY(calc((-2.48deg) * var(--amount,2)))}75%{transform:skewY(calc((-2.5deg) * var(--amount,2)))}}@keyframes blob-scale{0%,100%{transform:scaleX(.9) scaleY(1)}25%,75%{transform:scaleX(.9) scaleY(.9)}50%{transform:scaleX(1) scaleY(.9)}}
