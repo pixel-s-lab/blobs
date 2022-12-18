@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://blobs/pixel.com.ro/">
-    <img src="https://blobs/pixel.com.ro/asstes/img/blobs-logo.png" alt="Blobs logo" width="200" height="200">
+    <img src="[https://blobs/pixel.com.ro/asstes/img/blobs-logo.png](https://blobs.pixel.com.ro/assets/img/blobs-logo.png)" alt="Blobs logo" width="200" height="200">
   </a>
 </p>
 
