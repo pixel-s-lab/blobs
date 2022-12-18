@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="https://blobs/pixel.com.ro/">
+    <img src="https://blobs/pixel.com.ro/asstes/img/blobs-logo.png" alt="Blobs logo" width="200" height="200">
+  </a>
+</p>
+
+<h3 align="center">Blobs</h3>
+
+<p align="center">Pure CSS Animated Blobs</p>
+
 ## Introduction
 
 Blobs are the smooth, random, jelly-like shapes that have a whimsical quality and are just plain fun. They can be used as illustration elements and background effects on the web.
